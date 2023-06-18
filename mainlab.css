@@ -1,0 +1,40 @@
+.bg-container{
+    background-color:#F7C625;
+    background-size: cover;
+    height:100vh;
+    text-align:center;
+    
+   
+} 
+.head{
+    text-align: center;
+    color:white;
+    font-family: sans-serif;
+    padding-top: 100px;
+}
+.emoji{
+    width:80px;
+    height:100px; 
+    opacity:0.4;
+    transform: rotate(-90deg);
+    
+} 
+.color{
+    background-color: #D12A91;
+    height:33vh;
+    width:750px;
+    border-top-right-radius:120px;
+    margin-top: 200px;
+    
+}
+.color1{
+    background-color: #D12A91;
+    height:33vh;
+    width:750px;
+    border-top-left-radius:120px;
+    margin-top: 200px;
+    
+}
+.flex-container{
+    display:flex;
+}
